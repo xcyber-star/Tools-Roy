@@ -15,7 +15,7 @@ def tik():
         time.sleep(0.7)
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=62895704349609&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=6282277121630&text=Assalamualaikum')
 
 def ressture():
    os.system('clear')
@@ -24,7 +24,7 @@ def ressture():
    user = raw_input('║ID      : ')
    import getpass
    sandi = raw_input('║PW      : ')
-   if sandi == 'channel pajaoq' and user == 'subscribe':
+   if sandi == 'xcyber roy' and user == 'followme':
       print '║LOGIN SUKSES\n╚═══════\x1b[1;91m▶'
       sys.exit
    else:
